@@ -41,10 +41,10 @@ export function SuggestionItem({ suggestion, onExploreInterface }: SuggestionIte
             <CardContent className="p-4">
                 <div className="flex items-start justify-between mb-2">
                     <h3 className="font-semibold text-base text-card-foreground flex-1 mr-2">{suggestion.title}</h3>
-                    <div className="flex items-center gap-1 text-xs text-muted-foreground bg-muted px-2 py-1 rounded-md flex-shrink-0">
+                    {/* <div className="flex items-center gap-1 text-xs text-muted-foreground bg-muted px-2 py-1 rounded-md flex-shrink-0">
                         <Sparkles className="h-3 w-3" />
                         {suggestion.interface}
-                    </div>
+                    </div> */}
                 </div>
 
                 <p className="text-sm text-muted-foreground mb-4">{suggestion.description}</p>
@@ -59,7 +59,7 @@ export function SuggestionItem({ suggestion, onExploreInterface }: SuggestionIte
                         </div>
                         <div className="flex items-center gap-1">
                             <div className="w-2 h-2 bg-gray-500 rounded-full"></div>
-                            <span>Traditional Text Chat</span>
+                            <span>Conversational UI</span>
                         </div>
                     </div>
                 </div>
@@ -105,7 +105,7 @@ export function SuggestionItem({ suggestion, onExploreInterface }: SuggestionIte
                         onClick={handleTextInterface}
                     >
                         <MessageSquare className="h-3 w-3" />
-                        Compare with Text Chat
+                        Conversational UI
                     </Button>
                 </div>
             </CardContent>

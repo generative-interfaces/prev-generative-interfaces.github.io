@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router';
 import { ChevronDown, ChevronUp, ChevronLeft, ChevronRight } from 'lucide-react';
 import { FaFileAlt, FaGithub, FaBook } from 'react-icons/fa';
+import { SiHuggingface } from 'react-icons/si';
 import { Button } from '~/components/ui/button';
 import { Card, CardContent } from '~/components/ui/card';
 import { ThemeToggle } from '~/components/ui/theme-toggle';
@@ -79,7 +80,7 @@ const createSuggestionsFromDynamicData = (hourKey: number): Suggestion[] => {
     return hourData.examples.map((example, index) => ({
         id: index + 1,
         title: example.query,
-        description: `Compare ${example.interface.toLowerCase()} vs traditional text response. User feedback: "${example.comment}"`,
+        description: `Compare ${example.interface} vs conversational UI. User feedback: "${example.comment}"`,
         activity: hourData.activity,
         oursUrl: example.oursUrl,
         textUrl: example.textUrl,
@@ -198,8 +199,8 @@ export function DemoPage() {
         <div className="mx-auto px-[5%] py-5 max-w-7xl">
             <div className="flex justify-between items-start mb-5">
                 <div className="flex-1">
-                    <h1 className="text-3xl md:text-4xl font-bold text-center">
-                        Beyond Chat: Generative Interfaces for Language Models
+                    <h1 className="text-2xl md:text-3xl font-bold text-center">
+                        Beyond Chat: GENERATIVE INTERFACES FOR LANGUAGE MODELS
                     </h1>
                 </div>
                 <div className="ml-4">
@@ -240,22 +241,37 @@ export function DemoPage() {
                 </Button>
                 <Button
                     className="flex items-center gap-2"
-                    onClick={() => window.open('https://github.com/genertiveui/genertiveui.github.io', '_blank')}
+                    onClick={() => window.open('https://github.com/SALT-NLP/GenUI', '_blank')}
                 >
                     <FaGithub className="h-4 w-4" />
                     GitHub
+                </Button>
+                <Button
+                    className="flex items-center gap-2"
+                    onClick={() => window.open('https://huggingface.co/datasets/SALT-NLP/GenUI', '_blank')}
+                >
+                    <SiHuggingface className="h-4 w-4" />
+                    Hugging Face
                 </Button>
                 {/* <Button className="flex items-center gap-2">
                     <FaBook className="h-4 w-4" />
                     Documentation
                 </Button> */}
             </div>
+            <div className="w-full rounded-lg mb-8">
+                <img
+                    src="/images/head.png"
+                    alt="Generative Interfaces for Language Models"
+                    className="w-full h-auto object-contain"
+                    style={{ maxHeight: '400px' }}
+                />
+            </div>
 
             {/* Abstract Section */}
             <Card className="mb-8">
                 <CardContent className="p-6">
                     <p className="leading-relaxed text-sm">
-                        While large language models (LLMs) can generate diverse content in response to user queries, current interactions between humans and LLMs rely primarily on conversational interfaces that lack intuitive visual representations and interactive elements tailored to specific queries. To address this limitation, we investigate <em><strong>Generative User Interfaces for Language Models</strong></em>, a paradigm where LLMs respond to user queries with dynamic and interactive interfaces rather than traditional text-based responses.
+                        Large language models (LLMs) are increasingly seen as assistants, copilots, and consultants, capable of supporting a wide range of tasks through natural conversation. However, most systems remain limited to a linear request–response format, which struggles with complex interactive scenarios. This static, text-based interaction model often falls short in tasks such as multi-turn tasks or exploratory problem-solving, where users need more than a one-off answer. As a result, such interaction becomes inefficient, cognitively demanding, and misaligned with users' evolving goals. To address this, we investigate <em><strong>Generative Interfaces for Language Models</strong></em>, a paradigm where LLMs respond to user queries by proactively generating user interfaces (UIs) to enable more adaptive, interactive interactions that better support complex user goals.
                     </p>
 
                     {!abstractExpanded && (
@@ -275,7 +291,7 @@ export function DemoPage() {
                     {abstractExpanded && (
                         <>
                             <p className="leading-relaxed text-sm mt-4">
-                                We implement a prototype featuring a finite-state machine-based intermediate representation, adaptive reward mechanisms, and iterative refinement strategies that enable a process of gradually transforming user queries into specialized UIs designed for each specific query. For systematic evaluation, we establish a multidimensional assessment framework that compares generative UIs against traditional chat interfaces across diverse tasks, interaction patterns, and query types, evaluating functional, interactive, and emotional aspects of user experience. Our findings demonstrate the superior performance of generative UIs as judged by both human evaluators and LLMs, while our analysis reveals when and why users prefer generative interfaces over conversational ones.
+                                We implement a framework featuring structured interface-specific representations and iterative refinements that enable the gradual transformation of user queries into specialized UIs tailored for assisting each specific query. For systematic evaluation, we establish a multidimensional assessment framework that compares generative interfaces against traditional chat interfaces across diverse tasks, interaction patterns, and query types, evaluating functional, interactive, and emotional aspects of user experience. Our findings demonstrate the superior performance of generative interfaces, with a 72.0% increase in human preferences, revealing when and why users prefer generative interfaces over conversational ones.
                             </p>
                             <div className="flex justify-center mt-4">
                                 <Button
@@ -345,7 +361,7 @@ export function DemoPage() {
                         />
                     </DynamicDataProvider>
                     <p style={{ marginTop: '0px' }}>
-                        Browse interface examples from the current category selected in the left panel. Each example shows a direct comparison between our Generative UI and traditional text chat responses. Click "View Generative UI" to see our interactive interface in fullscreen, or "Compare with Text Chat" to see the traditional chat response. This demonstrates the real evaluation data from our study.
+                        Browse interface examples from the current category selected in the left panel. Each example shows a direct comparison between our Generative UI and traditional text chat responses. Click "View Generative UI" to see our interactive interface in fullscreen, or "View Conversational UI" to see the traditional chat response.
                     </p>
                 </div>
             </div>
@@ -355,7 +371,7 @@ export function DemoPage() {
                 <CardContent className="p-6">
                     <h3 className="text-2xl font-semibold mb-6">Technical Approach</h3>
                     <p className="leading-relaxed text-sm mb-4">
-                        Our approach uses a finite state machine-based intermediate representation to systematically model interface state transitions, user interaction flows, and component dependencies. This enables more robust UI generation compared to natural language descriptions.
+                    Our Generative Interfaces infrastructure employs a multi-stage workflow. At its core is a novel design of an intermediate representation, a language that grounds and guides the generation process. We then develop a generation pipeline that maps users' input queries into the intermediate representation and decodes it into UI implementation code. The initial output is further optimized through an iterative refinement process which is guided by an adaptive reward mechanism to optimize user experience and task performance. We describe each stage in detail below.
                     </p>
 
                     {/* <div className="rounded-lg overflow-hidden mb-6">
@@ -389,16 +405,17 @@ export function DemoPage() {
                     </div>
 
                     <p className="text-center text-xs text-muted-foreground mb-4">
-                        <strong>Technical Pipeline:</strong> Three-stage process from user query to functional interface generation.
+                        Generative Interfaces infrastructure
                     </p>
 
                     <p className="leading-relaxed text-sm mb-8">
-                        Our system consists of three main components: (1) <strong>Intent Recognition</strong> - determines query suitability and transforms inputs into structured interface specifications, (2) <strong>Interface-Specific Language</strong> - uses finite state machines to model UI behavior, state transitions, and component dependencies, and (3) <strong>Iterative Refinement</strong> - employs dynamic reward mechanisms to progressively optimize interface quality and generate robust, functional code.
+                        Our system consists of three main stages: (1) The user query is translated into a strict Interface-specific Language that encodes an intent-extended action space. (2) On top of these generated code and rendered UI. (3) We then employ an iterative refinement mechanism with an adaptive reward function to generate robust code, which is rendered into functional user interfaces.
                     </p>
 
                     <h3 className="text-2xl font-semibold mb-4">Evaluation Framework</h3>
                     <p className="leading-relaxed text-sm mb-8">
-                        We established a comprehensive evaluation framework with 100 diverse prompts across 10 categories, comparing generative UIs against traditional chat interfaces. Our evaluation includes both human studies with 300 participants and LLM-based assessments across seven dimensions: Usability, Task Efficiency, Information Clarity, Actionability, Learnability, Emotional Satisfaction, and Interface Aesthetics.
+                        To enable systematic evaluation, we developed a comprehensive evaluation framework. This includes a diverse user task suite named User Interface eXperience (UIX), covering various scenarios, styles, and intents; a set of multi-dimensional evaluation metrics; an integrated human study. <br />
+                        We construct UIX with 100 carefully curated prompts to ensure controlled experimental conditions that eliminate confounding factors such as generation speed and system reliability. This approach enables scalable, reproducible comparisons while avoiding the prohibitive costs required for large-scale free-query evaluation.
                     </p>
 
                     <h3 className="text-2xl font-semibold mb-4">Results</h3>
@@ -409,7 +426,7 @@ export function DemoPage() {
                     <div className="bg-card rounded-lg p-5 mb-4 max-w-4xl mx-auto">
                         <div className="w-full rounded-lg overflow-hidden">
                             <img
-                                src="/images/7_scenarios_human_study.jpg"
+                                src="/images/scenarios_human_study.jpg"
                                 alt="Scenario-wise Human Evaluation of Conversational vs. Generative UIs showing performance across 10 task scenarios"
                                 className="w-full h-auto object-contain"
                                 style={{ maxHeight: '500px' }}
@@ -418,7 +435,22 @@ export function DemoPage() {
                     </div>
 
                     <p className="text-center text-xs text-muted-foreground mb-4">
-                        <strong>Scenario-wise Human Evaluation:</strong> Across 10 task scenarios, generative UIs consistently outperform conversational UIs in dimensions such as task efficiency, usability, and learnability.
+                        <strong>Human Evaluation of UI Framework.</strong> Win, tie and loss percentages of UI variants compared to our system (GenUI), based on human preference across different perception dimensions: functional, interactive, and emotional.
+                    </p>
+
+                    <div className="bg-card rounded-lg p-5 mb-4 max-w-4xl mx-auto">
+                        <div className="w-full rounded-lg overflow-hidden">
+                            <img
+                                src="/images/scenarios_human_study2.jpg"
+                                alt="Scenario-wise human preference across 10 task scenarios"
+                                className="w-full h-auto object-contain"
+                                style={{ maxHeight: '500px' }}
+                            />
+                        </div>
+                    </div>
+
+                    <p className="text-center text-xs text-muted-foreground mb-4">
+                        <strong>Scenario-wise human preference.</strong> Across 10 task scenarios.
                     </p>
 
                     <p className="leading-relaxed text-sm mb-8">
@@ -479,11 +511,10 @@ export function DemoPage() {
                             }}
                         >
                             {`@article{chen2025generative,
-  title={{Beyond Chat}: Generative Interfaces for Language Models},
+  title={Generative Interfaces for Language Models},
   author={Chen, Jiaqi and Zhang, Yanzhe and Zhang, Yutong and Shao, Yijia and Yang, Diyi},
   journal={arXiv preprint},
-  year={2025},
-  note={Jiaqi Chen and Yanzhe Zhang contributed equally}
+  year={2025}
 }`}
                         </SyntaxHighlighter>
                         <Button

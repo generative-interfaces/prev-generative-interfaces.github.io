@@ -34,7 +34,7 @@ const CarouselCard = ({ card, keyPrefix = '', isFirstCardInSecondRow = false }: 
     >
         <div className="flex justify-between mb-1 text-xs mx-1.5 text-foreground/70">
             <span>Comment</span>
-            <span>Win Rate</span>
+            <span>Win</span>
         </div>
 
         <Card className="p-3 bg-secondary/80 border-border/50 shadow-md hover:shadow-lg transition-shadow">
