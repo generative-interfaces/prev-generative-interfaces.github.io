@@ -66,9 +66,9 @@ interface DynamicData {
 
 // Demo screenshots from evaluation study
 const screenshots = [
+    { src: '/images/demo/3_image.png', caption: 'Quantum Physics Explorer learning platform with structured course navigation, progress tracking, conceptual overviews, and interactive cards for core quantum mechanics principles like wave-particle duality and entanglement.' },
     { src: '/images/demo/1_image.png', caption: 'EcoExplorer food web educational interface showing interactive ecosystem learning with drag-and-drop organism connections, step-by-step tutorials, and embedded quizzes for hands-on ecological understanding.' },
     { src: '/images/demo/2_image.png', caption: 'Technical comparison interface for REST vs GraphQL featuring tabbed navigation, side-by-side code examples, and interactive deep-dive sections for API versioning strategies and implementation approaches.' },
-    { src: '/images/demo/3_image.png', caption: 'Quantum Physics Explorer learning platform with structured course navigation, progress tracking, conceptual overviews, and interactive cards for core quantum mechanics principles like wave-particle duality and entanglement.' },
     { src: '/images/demo/4_image.png', caption: 'Event Poster Designer creative tool interface with comprehensive design toolkit, template library, real-time preview canvas, and detailed property controls for creating professional marketing materials.' },
 ];
 
@@ -393,10 +393,10 @@ export function DemoPage() {
 
                     {/* <h3 className="text-2xl font-semibold mb-4">How it works</h3> */}
 
-                    <div className="bg-card rounded-lg p-5 mb-4">
+                    <div className="bg-card rounded-lg p-5">
                         <div className="w-full rounded-lg overflow-hidden">
                             <img
-                                src="/images/pipeline-architecture.png"
+                                src="/images/Generative_User_Interface_Method.jpg"
                                 alt="Technical Pipeline Architecture: (a) User Query processed through (b) Interface-specific Language with Finite State Machines to (c) Generated Code and UIs"
                                 className="w-full h-auto object-contain"
                                 style={{ maxHeight: '400px' }}

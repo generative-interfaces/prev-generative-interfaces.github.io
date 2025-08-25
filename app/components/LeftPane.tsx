@@ -27,13 +27,13 @@ interface SliderIcon {
 }
 
 const sliderIcons: SliderIcon[] = [
-    { icon: FaCode, value: 1, key: 'web-mobile', label: 'Web & Mobile App Development' },
+    { icon: FaPen, value: 1, key: 'content', label: 'Content Creation & Communication' },
     { icon: FaGlobe, value: 2, key: 'translation', label: 'Language Translation' },
     { icon: FaCloud, value: 3, key: 'devops', label: 'DevOps & Cloud Infrastructure' },
     { icon: FaRobot, value: 4, key: 'ai-ml', label: 'Advanced AI/ML Applications' },
     { icon: FaBullhorn, value: 5, key: 'marketing', label: 'Digital Marketing & SEO' },
     { icon: FaGraduationCap, value: 6, key: 'education', label: 'Education & Career Development' },
-    { icon: FaPen, value: 7, key: 'content', label: 'Content Creation & Communication' },
+    { icon: FaCode, value: 7, key: 'web-mobile', label: 'Web & Mobile App Development' },
     { icon: FaChartBar, value: 8, key: 'data-analysis', label: 'Data Analysis & Visualization' },
     { icon: FaBriefcase, value: 9, key: 'business', label: 'Business Strategy & Operations' },
     { icon: FaSearch, value: 10, key: 'research', label: 'Academic Research & Writing' },

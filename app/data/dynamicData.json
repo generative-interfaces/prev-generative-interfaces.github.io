@@ -1,99 +1,99 @@
 {
   "1": {
-    "activity": "Web & Mobile App Development",
-    "gif": "web_mobile_dev.gif",
+    "activity": "Content Creation & Communication",
+    "gif": "content_creation.gif",
     "carousel": [
       [
         {
           "id": 1,
-          "text": "Example B was much more informative, gave benefits and differences and had an interactive portion as well.",
-          "value": "1.0"
+          "text": "Example A has a better webpage design, allowing the user to easily look for the information they want quickly. Example B is still competent but generally more annoying to search around.",
+          "value": "0.9"
         },
         {
           "id": 2,
-          "text": "Example A was the clear winner. While I had a hard time understanding all the information since this is not my forte, the amount of information that was given in Example A was much more helpful and the DEMO area was great as well.",
-          "value": "0.8"
+          "text": "The design of the UI looks so much better in B, it looks much cleaner and well balanced. The template selection screen is much more attractive and usable as well, it helps you understand what the options are, with the previews/thumbnails.",
+          "value": "0.9"
         },
         {
           "id": 3,
-          "text": "I prefer Example A for the clear layout.  It gives a clear idea of what the fitness tracker could look like. ",
+          "text": "Option B has a better UI and user experience than option A",
           "value": "0.7"
         },
         {
           "id": 4,
-          "text": "The participant A has a very detailed podcast website. The website is structured and easy to follow as participant B has not started the process. ",
-          "value": "0.8"
+          "text": "Option A performs better overall. It provides a much more detailed and example of a conference website clearly communicating the schedule.",
+          "value": "0.6"
         },
         {
           "id": 5,
-          "text": "Option A is significantly better because it provides an interface that is user-friendly and conducive to helping the user fulfill the query. Option be on the other hand does not provide an interface and it is not very helpful in assisting the user in creating a fitness tracking app.",
-          "value": "0.9"
+          "text": "The layout and format looks very clean and nice on the eyes",
+          "value": "0.6"
         }
       ],
       [
         {
           "id": 6,
-          "text": "I preferred Option B because it clearly addressed the client's technical and business needs, including customization, inventory integration, and analytics. The structure and tone made it easy to understand what tech stack and architecture would be appropriate.",
-          "value": "1.0"
+          "text": "Example B has a much better structure in that it practically holds the user's hand throughout the process, giving an order to the material by making it step-by-step, and it was much more thoroughgoing, having more specificity in its presentation, including by adding focus to sustainability. And finally, it had video examples.",
+          "value": "0.8"
         },
         {
           "id": 7,
-          "text": "Example B shows the information visually organized into sections and presents the information a variety of ways that are interactive, as well as providing quick check questions at the end to gauge if the user learned what they should've from the page.",
-          "value": "0.8"
+          "text": "B addresses the prompt better.  The organization of the site provides places for all of the items included in the prompt.  Overall it is the stronger option.  ",
+          "value": "0.6"
         },
         {
           "id": 8,
-          "text": "Option A provides a great interface for a customer to provide feedback which is in line with the user's request and it fully addresses the user's need for a form that collects customer feedback. Option B does not provide an interface instead it just acts as a conversational tool to give the user ideas for a form instead of creating a form.",
-          "value": "1.0"
-        },
-        {
-          "id": 9,
-          "text": "Example B has a warm finish and better matches the user input",
+          "text": "Example B was much easy to follow and navigate. It is easy to understand what link to click for the different information on the page. ",
           "value": "0.8"
         },
         {
+          "id": 9,
+          "text": "I chose example A because it lists several options under recommended content strategies. Also, I noticed that all the platforms are located on the left for easy retreival and reviweing. Example A is better suited for this type of business. ",
+          "value": "0.7"
+        },
+        {
           "id": 10,
-          "text": "Option A is better. it directly addressess the crucial how to aspect for a non coder managing excel inventory, more detailed on this.",
-          "value": "0.9"
+          "text": "Example A is better for me because it proves more information in general about all of the prompts requests and the layout is a little better as well it’s nice. I did not like Example Bs website because i felt like the top part of the website with the topics/headers should be on the bottom of the website page not the top so it ultimately made me pick Example A because its layout is better and over all wording.",
+          "value": "0.7"
         }
       ]
     ],
     "examples": [
       {
-        "query": "I run a local farmer's market with 35 vendors selling produce, prepared foods, and crafts. We need a mobile app that allows customers to see which vendors are attending each week, browse available products with seasonal highlights, pre-order from select vendors, and receive notifications about special events or weather cancellations. Our vendors vary week to week, and product availability changes seasonally. Many of our vendors are not tech-savvy but could update their listings with a simple interface. We have a small budget and need something that both elderly customers and younger shoppers can easily navigate.",
-        "oursUrl": "http://34.94.132.86:5555/c/ai32/035c8006-b6eb-44ac-ba1f-97d393a2f9a7",
-        "textUrl": "http://34.94.132.86:5555/c/ai4/e0eb7f36-2ec8-4534-a6a3-f009776e5ce8",
-        "comment": "Now this is awesome! Example B is a big winner here! The user explained what they needed, and a fully formed app appeared from Example B. It had everything the user asked for and even had a very easy to see and use font enlarger for elderly people, which the user mentioned were some of their clients. The app is clear, very user friendly, and formatted nicely. Example A may get there eventually with more enquires and prompting, but right off the bat it was blown away by Example B. Not even close. ",
+        "query": "I want to create an infographic about water conservation.",
+        "oursUrl": "http://34.94.132.86:5555/c/ai32/6502ba4d-ec05-4f2c-a46d-b9fe733f5983",
+        "textUrl": "http://34.94.132.86:5555/c/ai1/68158265-a664-800a-b73c-7f859dc17829.html",
+        "comment": "Example B is far superior in its response to this query. It helped the user generate the infographic on water conservation, directly adding graphics to show the data as would be expected. This is great. Example A on the other hand, just gives an explanation of how it can be done. Alot of information without actually doing what the user intended. It's good for research, though. I prefer interactive UI over conversational UI because of this reason.",
         "interface": "UI",
         "model": "Ours (Claude 3.7)",
-        "commentLength": 501,
+        "commentLength": 450,
         "dimensionScores": {},
-        "qualityScore": 501,
-        "submissionId": "sub_4798edf5-5554-4800-bdfe-2251ec219e49"
+        "qualityScore": 450,
+        "submissionId": "sub_52d12ee7-53f3-45e4-bd04-b93ff4651dbb"
       },
       {
-        "query": "I need to design a mobile app interface for fitness tracking.",
-        "oursUrl": "http://34.94.132.86:5555/c/ai32/0de8455a-a7df-46f5-8787-7ce3f56d753a",
-        "textUrl": "http://34.94.132.86:5555/c/ai4/24b05b79-f1ad-4d06-8775-a8cc0dcb26ad",
-        "comment": "I prefer Example A because it directly presents a polished, realistic mobile app UI for fitness tracking. It’s consistent with the query, allows fast visual interpretation, and clearly demonstrates how the app would work. While Example B provides a helpful design rationale, it lacks immediacy and interactivity. For tasks involving UI design, I prefer an interface example (like A) over a conversational description (like B), as it bridges the gap between concept and execution.",
+        "query": "How do I create a podcast?",
+        "oursUrl": "http://34.94.132.86:5555/c/ai32/891629c2-496f-499d-abef-37b81c7e71a6",
+        "textUrl": "http://34.94.132.86:5555/c/ai4/0cbc54a8-331d-4065-855d-f8a38a724b8d",
+        "comment": "The Example B page actually lets an individual enact the subject of the query - creating a podcast. It covers the territory in all its stages, with necessary information like microphones and prices for microphones and pop filters and de-essing processes. It was fluent and clearly structured. The GenUI gave a straightforward format while the Conversational UI leaves the user to flounder around and guess the right questions.",
         "interface": "UI",
         "model": "Ours (Claude 3.7)",
-        "commentLength": 479,
+        "commentLength": 426,
         "dimensionScores": {},
-        "qualityScore": 479,
-        "submissionId": "sub_84da2b8b-e0aa-468d-b0a2-df69100c3695"
+        "qualityScore": 426,
+        "submissionId": "sub_8fe9183d-6c9f-46c5-87a4-a133f60d96ed"
       },
       {
-        "query": "I need to build a form that collects customer feedback.",
-        "oursUrl": "http://34.94.132.86:5555/c/ai32/41f02d83-3678-4791-b101-1c1a9073089a",
-        "textUrl": "http://34.94.132.86:5555/c/ai4/0a76730c-57be-4fb0-8747-089f8170c778",
-        "comment": "I prefer Example A because it immediately provides a working customer feedback form that satisfies the user’s query. It’s interactive, requires no extra setup, and is efficient and easy to use. While Example B gives detailed instructions for creating a form, it is not actionable on its own. For this kind of task, I strongly prefer an interactive UI like Example A that delivers a ready-to-use solution rather than just advice or design theory.",
+        "query": "I need to make a poster for my community event.",
+        "oursUrl": "http://34.94.132.86:5555/c/ai32/f4b15b1f-ffa7-439d-9202-ce0b21450c8e",
+        "textUrl": "http://34.94.132.86:5555/c/ai1/681582cf-dd54-800a-bdcf-503f4ee73508.html",
+        "comment": "I prefer Option B because it offers a conversational, guided experience that helps the user clarify their needs and quickly begin designing. Option B directly addresses the user intent with a friendly tone and structured follow-up questions, making it more intuitive and less overwhelming for a first-time user",
         "interface": "UI",
         "model": "Ours (Claude 3.7)",
-        "commentLength": 445,
+        "commentLength": 310,
         "dimensionScores": {},
-        "qualityScore": 445,
-        "submissionId": "sub_9d270231-124b-4939-be97-df5ae818d31d"
+        "qualityScore": 310,
+        "submissionId": "sub_e34d1b57-e719-4b29-9fd1-fb7a28be55ef"
       }
     ]
   },
@@ -588,100 +588,100 @@
     ]
   },
   "7": {
-    "activity": "Content Creation & Communication",
-    "gif": "content_creation.gif",
+    "activity": "Web & Mobile App Development",
+    "gif": "web_mobile_dev.gif",
     "carousel": [
       [
         {
           "id": 1,
-          "text": "Example A has a better webpage design, allowing the user to easily look for the information they want quickly. Example B is still competent but generally more annoying to search around.",
-          "value": "0.9"
+          "text": "Example B was much more informative, gave benefits and differences and had an interactive portion as well.",
+          "value": "1.0"
         },
         {
           "id": 2,
-          "text": "The design of the UI looks so much better in B, it looks much cleaner and well balanced. The template selection screen is much more attractive and usable as well, it helps you understand what the options are, with the previews/thumbnails.",
-          "value": "0.9"
+          "text": "Example A was the clear winner. While I had a hard time understanding all the information since this is not my forte, the amount of information that was given in Example A was much more helpful and the DEMO area was great as well.",
+          "value": "0.8"
         },
         {
           "id": 3,
-          "text": "Option B has a better UI and user experience than option A",
+          "text": "I prefer Example A for the clear layout.  It gives a clear idea of what the fitness tracker could look like. ",
           "value": "0.7"
         },
         {
           "id": 4,
-          "text": "Option A performs better overall. It provides a much more detailed and example of a conference website clearly communicating the schedule.",
-          "value": "0.6"
+          "text": "The participant A has a very detailed podcast website. The website is structured and easy to follow as participant B has not started the process. ",
+          "value": "0.8"
         },
         {
           "id": 5,
-          "text": "The layout and format looks very clean and nice on the eyes",
-          "value": "0.6"
+          "text": "Option A is significantly better because it provides an interface that is user-friendly and conducive to helping the user fulfill the query. Option be on the other hand does not provide an interface and it is not very helpful in assisting the user in creating a fitness tracking app.",
+          "value": "0.9"
         }
       ],
       [
         {
           "id": 6,
-          "text": "Example B has a much better structure in that it practically holds the user's hand throughout the process, giving an order to the material by making it step-by-step, and it was much more thoroughgoing, having more specificity in its presentation, including by adding focus to sustainability. And finally, it had video examples.",
-          "value": "0.8"
+          "text": "I preferred Option B because it clearly addressed the client's technical and business needs, including customization, inventory integration, and analytics. The structure and tone made it easy to understand what tech stack and architecture would be appropriate.",
+          "value": "1.0"
         },
         {
           "id": 7,
-          "text": "B addresses the prompt better.  The organization of the site provides places for all of the items included in the prompt.  Overall it is the stronger option.  ",
-          "value": "0.6"
-        },
-        {
-          "id": 8,
-          "text": "Example B was much easy to follow and navigate. It is easy to understand what link to click for the different information on the page. ",
+          "text": "Example B shows the information visually organized into sections and presents the information a variety of ways that are interactive, as well as providing quick check questions at the end to gauge if the user learned what they should've from the page.",
           "value": "0.8"
         },
         {
+          "id": 8,
+          "text": "Option A provides a great interface for a customer to provide feedback which is in line with the user's request and it fully addresses the user's need for a form that collects customer feedback. Option B does not provide an interface instead it just acts as a conversational tool to give the user ideas for a form instead of creating a form.",
+          "value": "1.0"
+        },
+        {
           "id": 9,
-          "text": "I chose example A because it lists several options under recommended content strategies. Also, I noticed that all the platforms are located on the left for easy retreival and reviweing. Example A is better suited for this type of business. ",
-          "value": "0.7"
+          "text": "Example B has a warm finish and better matches the user input",
+          "value": "0.8"
         },
         {
           "id": 10,
-          "text": "Example A is better for me because it proves more information in general about all of the prompts requests and the layout is a little better as well it’s nice. I did not like Example Bs website because i felt like the top part of the website with the topics/headers should be on the bottom of the website page not the top so it ultimately made me pick Example A because its layout is better and over all wording.",
-          "value": "0.7"
+          "text": "Option A is better. it directly addressess the crucial how to aspect for a non coder managing excel inventory, more detailed on this.",
+          "value": "0.9"
         }
       ]
     ],
     "examples": [
       {
-        "query": "I want to create an infographic about water conservation.",
-        "oursUrl": "http://34.94.132.86:5555/c/ai32/6502ba4d-ec05-4f2c-a46d-b9fe733f5983",
-        "textUrl": "http://34.94.132.86:5555/c/ai1/68158265-a664-800a-b73c-7f859dc17829.html",
-        "comment": "Example B is far superior in its response to this query. It helped the user generate the infographic on water conservation, directly adding graphics to show the data as would be expected. This is great. Example A on the other hand, just gives an explanation of how it can be done. Alot of information without actually doing what the user intended. It's good for research, though. I prefer interactive UI over conversational UI because of this reason.",
+        "query": "I run a local farmer's market with 35 vendors selling produce, prepared foods, and crafts. We need a mobile app that allows customers to see which vendors are attending each week, browse available products with seasonal highlights, pre-order from select vendors, and receive notifications about special events or weather cancellations. Our vendors vary week to week, and product availability changes seasonally. Many of our vendors are not tech-savvy but could update their listings with a simple interface. We have a small budget and need something that both elderly customers and younger shoppers can easily navigate.",
+        "oursUrl": "http://34.94.132.86:5555/c/ai32/035c8006-b6eb-44ac-ba1f-97d393a2f9a7",
+        "textUrl": "http://34.94.132.86:5555/c/ai4/e0eb7f36-2ec8-4534-a6a3-f009776e5ce8",
+        "comment": "Now this is awesome! Example B is a big winner here! The user explained what they needed, and a fully formed app appeared from Example B. It had everything the user asked for and even had a very easy to see and use font enlarger for elderly people, which the user mentioned were some of their clients. The app is clear, very user friendly, and formatted nicely. Example A may get there eventually with more enquires and prompting, but right off the bat it was blown away by Example B. Not even close. ",
         "interface": "UI",
         "model": "Ours (Claude 3.7)",
-        "commentLength": 450,
+        "commentLength": 501,
         "dimensionScores": {},
-        "qualityScore": 450,
-        "submissionId": "sub_52d12ee7-53f3-45e4-bd04-b93ff4651dbb"
+        "qualityScore": 501,
+        "submissionId": "sub_4798edf5-5554-4800-bdfe-2251ec219e49"
       },
       {
-        "query": "How do I create a podcast?",
-        "oursUrl": "http://34.94.132.86:5555/c/ai32/891629c2-496f-499d-abef-37b81c7e71a6",
-        "textUrl": "http://34.94.132.86:5555/c/ai4/0cbc54a8-331d-4065-855d-f8a38a724b8d",
-        "comment": "The Example B page actually lets an individual enact the subject of the query - creating a podcast. It covers the territory in all its stages, with necessary information like microphones and prices for microphones and pop filters and de-essing processes. It was fluent and clearly structured. The GenUI gave a straightforward format while the Conversational UI leaves the user to flounder around and guess the right questions.",
+        "query": "I need to design a mobile app interface for fitness tracking.",
+        "oursUrl": "http://34.94.132.86:5555/c/ai32/0de8455a-a7df-46f5-8787-7ce3f56d753a",
+        "textUrl": "http://34.94.132.86:5555/c/ai4/24b05b79-f1ad-4d06-8775-a8cc0dcb26ad",
+        "comment": "I prefer Example A because it directly presents a polished, realistic mobile app UI for fitness tracking. It’s consistent with the query, allows fast visual interpretation, and clearly demonstrates how the app would work. While Example B provides a helpful design rationale, it lacks immediacy and interactivity. For tasks involving UI design, I prefer an interface example (like A) over a conversational description (like B), as it bridges the gap between concept and execution.",
         "interface": "UI",
         "model": "Ours (Claude 3.7)",
-        "commentLength": 426,
+        "commentLength": 479,
         "dimensionScores": {},
-        "qualityScore": 426,
-        "submissionId": "sub_8fe9183d-6c9f-46c5-87a4-a133f60d96ed"
+        "qualityScore": 479,
+        "submissionId": "sub_84da2b8b-e0aa-468d-b0a2-df69100c3695"
       },
       {
-        "query": "I need to make a poster for my community event.",
-        "oursUrl": "http://34.94.132.86:5555/c/ai32/f4b15b1f-ffa7-439d-9202-ce0b21450c8e",
-        "textUrl": "http://34.94.132.86:5555/c/ai1/681582cf-dd54-800a-bdcf-503f4ee73508.html",
-        "comment": "I prefer Option B because it offers a conversational, guided experience that helps the user clarify their needs and quickly begin designing. Option B directly addresses the user intent with a friendly tone and structured follow-up questions, making it more intuitive and less overwhelming for a first-time user",
+        "query": "I need to build a form that collects customer feedback.",
+        "oursUrl": "http://34.94.132.86:5555/c/ai32/41f02d83-3678-4791-b101-1c1a9073089a",
+        "textUrl": "http://34.94.132.86:5555/c/ai4/0a76730c-57be-4fb0-8747-089f8170c778",
+        "comment": "I prefer Example A because it immediately provides a working customer feedback form that satisfies the user’s query. It’s interactive, requires no extra setup, and is efficient and easy to use. While Example B gives detailed instructions for creating a form, it is not actionable on its own. For this kind of task, I strongly prefer an interactive UI like Example A that delivers a ready-to-use solution rather than just advice or design theory.",
         "interface": "UI",
         "model": "Ours (Claude 3.7)",
-        "commentLength": 310,
+        "commentLength": 445,
         "dimensionScores": {},
-        "qualityScore": 310,
-        "submissionId": "sub_e34d1b57-e719-4b29-9fd1-fb7a28be55ef"
+        "qualityScore": 445,
+        "submissionId": "sub_9d270231-124b-4939-be97-df5ae818d31d"
       }
     ]
   },
