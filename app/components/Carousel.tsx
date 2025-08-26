@@ -58,7 +58,7 @@ const CarouselCard = ({ card, keyPrefix = '', isFirstCardInSecondRow = false }: 
                 </Dialog>
                 <div className="w-px bg-border/60 h-5 mx-2" />
                 <div className="flex-1 font-bold text-base text-secondary-foreground text-center">
-                    {card.text.split('').includes('A') ? 'A' : 'B'}
+                    {card.value}
                 </div>
             </CardContent>
         </Card>

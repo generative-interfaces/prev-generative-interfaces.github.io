@@ -7,54 +7,54 @@
         {
           "id": 1,
           "text": "Example A has a better webpage design, allowing the user to easily look for the information they want quickly. Example B is still competent but generally more annoying to search around.",
-          "value": "0.9"
+          "value": "A"
         },
         {
           "id": 2,
           "text": "The design of the UI looks so much better in B, it looks much cleaner and well balanced. The template selection screen is much more attractive and usable as well, it helps you understand what the options are, with the previews/thumbnails.",
-          "value": "0.9"
+          "value": "B"
         },
         {
           "id": 3,
           "text": "Option B has a better UI and user experience than option A",
-          "value": "0.7"
+          "value": "B"
         },
         {
           "id": 4,
           "text": "Option A performs better overall. It provides a much more detailed and example of a conference website clearly communicating the schedule.",
-          "value": "0.6"
+          "value": "A"
         },
         {
           "id": 5,
           "text": "The layout and format looks very clean and nice on the eyes",
-          "value": "0.6"
+          "value": "-"
         }
       ],
       [
         {
           "id": 6,
           "text": "Example B has a much better structure in that it practically holds the user's hand throughout the process, giving an order to the material by making it step-by-step, and it was much more thoroughgoing, having more specificity in its presentation, including by adding focus to sustainability. And finally, it had video examples.",
-          "value": "0.8"
+          "value": "B"
         },
         {
           "id": 7,
           "text": "B addresses the prompt better.  The organization of the site provides places for all of the items included in the prompt.  Overall it is the stronger option.  ",
-          "value": "0.6"
+          "value": "B"
         },
         {
           "id": 8,
           "text": "Example B was much easy to follow and navigate. It is easy to understand what link to click for the different information on the page. ",
-          "value": "0.8"
+          "value": "B"
         },
         {
           "id": 9,
           "text": "I chose example A because it lists several options under recommended content strategies. Also, I noticed that all the platforms are located on the left for easy retreival and reviweing. Example A is better suited for this type of business. ",
-          "value": "0.7"
+          "value": "A"
         },
         {
           "id": 10,
           "text": "Example A is better for me because it proves more information in general about all of the prompts requests and the layout is a little better as well it’s nice. I did not like Example Bs website because i felt like the top part of the website with the topics/headers should be on the bottom of the website page not the top so it ultimately made me pick Example A because its layout is better and over all wording.",
-          "value": "0.7"
+          "value": "A"
         }
       ]
     ],
@@ -105,54 +105,54 @@
         {
           "id": 1,
           "text": "Example B was my top choice. Though I did like the interactive voice options in Example A, when it came to understanding and having more valuable information Example B was better. It had a testing area as well which was nice and the interface was a bit better as well.",
-          "value": "0.8"
+          "value": "B"
         },
         {
           "id": 2,
           "text": "Example A was far better than B. The entirety of the site and the layout was much easier to follow and did a great job of streamlining the information in a direct manner that flowed correctly with learning the information. The use of colors to separate the various terms and the use of boxes made it easy to understand and follow the information. Also, the interactive portions were of tremendous help and giving you the ability to take a quiz at the end with there being an area to check and show the answers was awesome. Example B was just too simplistic. It felt like I was just reading the information out of a textbook so it was very dry and much more boring in comparison to Example A.",
-          "value": "0.9"
+          "value": "A"
         },
         {
           "id": 3,
           "text": "Example A better matches the user input and is much better than B",
-          "value": "0.8"
+          "value": "A"
         },
         {
           "id": 4,
           "text": "I preferred Option A because it more thoroughly addresses the core need: supporting multilingual handbook creation with attention to accuracy, technical terminology, and cultural appropriateness. It guides the user clearly and offers useful actions, making it more effective and satisfying overall. While Option B looks cleaner, it lacks the depth and direction needed for a task of this complexity. For this type of task, I prefer pages that combine strong content support with intuitive usability—which Option A did better.",
-          "value": "0.9"
+          "value": "A"
         },
         {
           "id": 5,
           "text": "A provides the best visuals and is the clearest to understand.",
-          "value": "0.7"
+          "value": "A"
         }
       ],
       [
         {
           "id": 6,
           "text": "Example A was a much better layout - I really liked the side by side translation.",
-          "value": "0.8"
+          "value": "A"
         },
         {
           "id": 7,
           "text": "I picked Example B because it definitely is better than Example A and provides all the prompts relevant information and even has a print option to print out the information! It has way more info relevant to the prompt.",
-          "value": "0.7"
+          "value": "B"
         },
         {
           "id": 8,
           "text": "option A has a better design than option B, and it is well organized and easy to understand",
-          "value": "0.7"
+          "value": "A"
         },
         {
           "id": 9,
-          "text": "The user asked what process should I implement. Example b did this much more effectively and with better steps to take.",
-          "value": "0.9"
+          "text": "The user asked what process should I implement. Example B did this much more effectively and with better steps to take.",
+          "value": "B"
         },
         {
           "id": 10,
           "text": "B is clear and to the point. It has a user-friendly comparison list and very easy to understand. A is cluttered and gives so much information that its hard to sort through and remember.",
-          "value": "0.7"
+          "value": "B"
         }
       ]
     ],
@@ -203,54 +203,54 @@
         {
           "id": 1,
           "text": "I found Example A to be better overall. I liked the interface better than the other, I enjoyed using the interactive portion and I found the layout and breakdown of information to be more efficient in me understanding everything. The colors were really nice and seemed to improve the overall aesthetic.",
-          "value": "0.8"
+          "value": "A"
         },
         {
           "id": 2,
           "text": "While both were quite similar Option A just had a better visual appeal and it was easier to follow progress on the website.  ",
-          "value": "0.9"
+          "value": "A"
         },
         {
           "id": 3,
           "text": "Participant A has a website, but when I click on it there is nothing to read. Participant B has information that would assist to better understand the cloud architecture. ",
-          "value": "0.8"
+          "value": "B"
         },
         {
           "id": 4,
           "text": "Example A has graphs and a easier to read layout to show the user what they need in order to create a roadmap like they wanted",
-          "value": "0.9"
+          "value": "A"
         },
         {
           "id": 5,
           "text": "Example B had a layout that was easier to follow and interact with. It had attention-grabbing headings and clear and concise bullet point that made it easy to read. ",
-          "value": "0.8"
+          "value": "B"
         }
       ],
       [
         {
           "id": 6,
           "text": "A is clear, simple, and to the point. Everything is easy to understand. B is overly complicated and seems to be more focused on being flashy than helping the user understand.",
-          "value": "0.7"
+          "value": "A"
         },
         {
           "id": 7,
           "text": "Example B uses better organizational skills to manage the data on the website. The graphs are also a very nice touch on organizing the data left to fully transition the infrastructure to maintain HIPAA compliance. The graphs and organization play an important part in this scenario. The IT director can stay on track and ensure all of the tasks are completely fully and properly. \n\nExample A isn't worse, it's just that Example B is better.",
-          "value": "0.7"
+          "value": "B"
         },
         {
           "id": 8,
           "text": "I chose B because I liked the design of the page. It felt engaging and obvious. Simple and clean as well.",
-          "value": "0.8"
+          "value": "B"
         },
         {
           "id": 9,
           "text": "Example A felt better to me. Example B had too much toggling back and forth",
-          "value": "0.8"
+          "value": "A"
         },
         {
           "id": 10,
           "text": "Option A had more visuals and more detailed information which I found to be useful.",
-          "value": "0.8"
+          "value": "A"
         }
       ]
     ],
@@ -301,54 +301,54 @@
         {
           "id": 1,
           "text": "Though it was close, I found that Example B was a bit better. I liked the images much more that were used in B and I found how they organized it to be easy to read. Also, the breakdowns they gave were easier for me to understand with how the layout was done.",
-          "value": "0.6"
+          "value": "B"
         },
         {
           "id": 2,
           "text": "Example A really stands out as a more complete resource. Example B is clean and easy to search for information, however doesn't provide nearly as much, and looks a bit incomplete.",
-          "value": "0.7"
+          "value": "A"
         },
         {
           "id": 3,
           "text": "Example B gave extensive and well organized information for a better understanding.",
-          "value": "0.8"
+          "value": "B"
         },
         {
           "id": 4,
           "text": "Option B completely fulfilled the user's query for help building a basic recommendation system, it provides a user-friendly interface with three steps to assist in building a recommendation. Option eight on the other hand only explains using words to describe building a recommendation system and does not provide an actual interface to the user.",
-          "value": "0.8"
+          "value": "B"
         },
         {
           "id": 5,
           "text": "Example B visually shows what the page could look like for the query, with clear organization and labels.",
-          "value": "0.6"
+          "value": "B"
         }
       ],
       [
         {
           "id": 6,
           "text": "Example B has much better formatting than Example A (text blocks are cut off).",
-          "value": "0.9"
+          "value": "B"
         },
         {
           "id": 7,
           "text": "Option B has a better layout and more easy to read examples of how to break down the subjects researching this disease than A does. It helps the user create the audio samples as needed",
-          "value": "0.6"
+          "value": "B"
         },
         {
           "id": 8,
           "text": "Example A had a confusing section in the middle where the words disappeared when moving the cursor over them. I wasn't sure how to fix that or what I was supposed to do. Example B was easy to follow and had visually appealing text boxes. ",
-          "value": "0.8"
+          "value": "B"
         },
         {
           "id": 9,
           "text": "Example B was the clear winner.  I liked the  engaging and interesting way it presented the information. The graphs and charts were colorful and eye catching, yet organized and a successful way of presenting the data. I found it easy to tinker with as well.",
-          "value": "0.6"
+          "value": "B"
         },
         {
           "id": 10,
           "text": "A is simple and easy to understand. Be is overly complicated and not all the diagrams are organized as they should be.",
-          "value": "0.7"
+          "value": "A"
         }
       ]
     ],
@@ -399,54 +399,54 @@
         {
           "id": 1,
           "text": "Neither A or B actually provides a direct answer to the question.  They are asking for a marketing strategy and the answers provided are a for a web design.",
-          "value": "0.9"
+          "value": "A"
         },
         {
           "id": 2,
           "text": "A has good information and some fancy clickable interactions/flowcharts, but it is over-designed. It is too complicated, whereas B feels refreshingly simple by comparison. The information is easier for me to parse, whereas there's too much going on in A.",
-          "value": "0.7"
+          "value": "A"
         },
         {
           "id": 3,
           "text": "Option A provides a great interface that is conducive to the user's request for help creating a marketing campaign. It provides clear labels and input fields that will help the user create their campaign option. Option B on the other hand serves more as an outlining tool and doesn't do much to help the user create an actual marketing campaign but instead serves to help the user generate ideas.",
-          "value": "0.7"
+          "value": "A"
         },
         {
           "id": 4,
           "text": "Example B is easier to read and understand, the layout is better than example A. Example A is to close together the layout is hard to focus on",
-          "value": "0.8"
+          "value": "B"
         },
         {
           "id": 5,
           "text": "Option B has a lot to like. I like its usability and overall design. It does seem to be more comprehensive compared with option A.  I think option B has more of what the user is wanting and can help them achieve their goal better.",
-          "value": "0.7"
+          "value": "B"
         }
       ],
       [
         {
           "id": 6,
           "text": "The layout of option B is more appealing and easier to navigate.",
-          "value": "0.6"
+          "value": "B"
         },
         {
           "id": 7,
           "text": "Option A is well layed out making it concise and easy to understand",
-          "value": "0.8"
+          "value": "A"
         },
         {
           "id": 8,
           "text": "I preferred Option B because it offers stronger marketing support, better visual design, and more effective product presentation tools for the user's needs.\n\n",
-          "value": "0.9"
+          "value": "B"
         },
         {
           "id": 9,
           "text": "Option A both looks better and feels easier to use.",
-          "value": "0.9"
+          "value": "A"
         },
         {
           "id": 10,
           "text": "Response A provides multiple metrics in tracking website traffic including average session durations and traffic sources all in an easy to read dashboard. Response B on the other hand is much less comprehensive and when scrolling down to the insights the text is barely readable as it is the text color blends with the background.",
-          "value": "0.6"
+          "value": "A"
         }
       ]
     ],
@@ -497,54 +497,54 @@
         {
           "id": 1,
           "text": "Participant B the website is remarkable and very informative to understand quantum physics principles. Participant A is on the layout of setting the website up in which is not beneficial to the users. ",
-          "value": "1.0"
+          "value": "B"
         },
         {
           "id": 2,
           "text": "Although, participant A has a layout, participant B I was able to interact and practice multiplications in a fun way.",
-          "value": "0.9"
+          "value": "B"
         },
         {
           "id": 3,
           "text": "Example A is overall better, with a cleaner and more functional design.",
-          "value": "0.6"
+          "value": "B"
         },
         {
           "id": 4,
           "text": "I prefer Example A because it provides a comprehensive and interactive learning type hub.",
-          "value": "0.8"
+          "value": "A"
         },
         {
           "id": 5,
           "text": "Although both examples are usable, Example B provides a better progress tracker.",
-          "value": "0.8"
+          "value": "B"
         }
       ],
       [
         {
           "id": 6,
           "text": "I preferred Option A because it offered a clearer structure for training development, addressed teacher concerns directly, and explained implementation in a straightforward and supportive way. The layout was readable and made the process easy to follow.",
-          "value": "0.7"
+          "value": "A"
         },
         {
           "id": 7,
           "text": "A's layout looks bad/janky on my browser (Google Chrome), it's difficult to read. It also doesn't effectively show progress towards certifications. B more comprehensively addresses the needs that are articulated, and shows more relevant information",
-          "value": "0.6"
+          "value": "B"
         },
         {
           "id": 8,
           "text": "I preferred Option B because it better supports elementary school teachers with visual resources, intuitive navigation, and clear tools for lesson planning. It directly addresses the challenges of diverse learners and limited classroom equipment while making science concepts engaging and accessible.",
-          "value": "1.0"
+          "value": "B"
         },
         {
           "id": 9,
           "text": "While both provide logical organization, A makes the most sense and is the easiest to use.  The dashboard clearly outlines progress making it easy to determine what steps should be taken next.  ",
-          "value": "0.7"
+          "value": "A"
         },
         {
           "id": 10,
           "text": "It is a challenge to decide the clear winner. While Example B was more engaging and seemed to tackle her need for visuals, it was lacking in information. Example A had much more complete information for the learner.",
-          "value": "0.8"
+          "value": "B"
         }
       ]
     ],
@@ -595,54 +595,54 @@
         {
           "id": 1,
           "text": "Example B was much more informative, gave benefits and differences and had an interactive portion as well.",
-          "value": "1.0"
+          "value": "B"
         },
         {
           "id": 2,
           "text": "Example A was the clear winner. While I had a hard time understanding all the information since this is not my forte, the amount of information that was given in Example A was much more helpful and the DEMO area was great as well.",
-          "value": "0.8"
+          "value": "A"
         },
         {
           "id": 3,
           "text": "I prefer Example A for the clear layout.  It gives a clear idea of what the fitness tracker could look like. ",
-          "value": "0.7"
+          "value": "A"
         },
         {
           "id": 4,
           "text": "The participant A has a very detailed podcast website. The website is structured and easy to follow as participant B has not started the process. ",
-          "value": "0.8"
+          "value": "A"
         },
         {
           "id": 5,
           "text": "Option A is significantly better because it provides an interface that is user-friendly and conducive to helping the user fulfill the query. Option be on the other hand does not provide an interface and it is not very helpful in assisting the user in creating a fitness tracking app.",
-          "value": "0.9"
+          "value": "A"
         }
       ],
       [
         {
           "id": 6,
           "text": "I preferred Option B because it clearly addressed the client's technical and business needs, including customization, inventory integration, and analytics. The structure and tone made it easy to understand what tech stack and architecture would be appropriate.",
-          "value": "1.0"
+          "value": "B"
         },
         {
           "id": 7,
           "text": "Example B shows the information visually organized into sections and presents the information a variety of ways that are interactive, as well as providing quick check questions at the end to gauge if the user learned what they should've from the page.",
-          "value": "0.8"
+          "value": "B"
         },
         {
           "id": 8,
           "text": "Option A provides a great interface for a customer to provide feedback which is in line with the user's request and it fully addresses the user's need for a form that collects customer feedback. Option B does not provide an interface instead it just acts as a conversational tool to give the user ideas for a form instead of creating a form.",
-          "value": "1.0"
+          "value": "A"
         },
         {
           "id": 9,
           "text": "Example B has a warm finish and better matches the user input",
-          "value": "0.8"
+          "value": "B"
         },
         {
           "id": 10,
           "text": "Option A is better. it directly addressess the crucial how to aspect for a non coder managing excel inventory, more detailed on this.",
-          "value": "0.9"
+          "value": "A"
         }
       ]
     ],
@@ -693,54 +693,54 @@
         {
           "id": 1,
           "text": "Example B is overall better, even though for me the charts weren't necessarily showing up. Example A works well but shows very little in comparison to Example B.",
-          "value": "0.8"
+          "value": "B"
         },
         {
           "id": 2,
           "text": "The data layout in B was so much easier to read and follow.  The page layout, graphics and the way the data was organized made it very easy to find the information that the original query asked.  Useability far superior in this option.",
-          "value": "1.0"
+          "value": "B"
         },
         {
           "id": 3,
           "text": "Example B offers the opportunity to personalize the data.  This provides for a better overall analysis.",
-          "value": "0.8"
+          "value": "B"
         },
         {
           "id": 4,
           "text": "Example A provides better usability.  Many statistics were offered and it was easier to understand.",
-          "value": "0.8"
+          "value": "A"
         },
         {
           "id": 5,
           "text": "Example B had actual data and graphs, which answers the query of visualizing data much better.",
-          "value": "0.7"
+          "value": "B"
         }
       ],
       [
         {
           "id": 6,
           "text": "For the query about analyzing a decade's worth of urban sensor data with inconsistencies and confounders, I preferred Option A. It offered a visually appealing and comprehensive overview that aligned with the user's needs. Although Option B was more structured, it lacked the visual clarity and engagement that Option A provided. Option A's visual design and all-in-one approach made it the stronger overall choice.",
-          "value": "0.8"
+          "value": "A"
         },
         {
           "id": 7,
           "text": "I felt like Example B had an easier interface to input information and see the results in an organized and entertaining way.It felt more user friendly and easier to digest the information. It allows the user to adjust according to the data input.",
-          "value": "0.6"
+          "value": "B"
         },
         {
           "id": 8,
           "text": "I just filled that option A or example way felt a little bit of a clutter when it comes to the information as well as navigating, where option B was a little bit more spacious and allows for the user to navigate without any complex visuals or any bugs or glitches that are causing any issues with the UI, site, or options to run certain data points.",
-          "value": "0.8"
+          "value": "A"
         },
         {
           "id": 9,
           "text": "Example A was a nice page but Example B was better. B had a helpful feature that recommended the correct chart for the user. There have been times I would have liked to have this little tool on hand. ",
-          "value": "0.6"
+          "value": "B"
         },
         {
           "id": 10,
           "text": "Example A did not even have any charts as it listed it would, and instead had a blank screen. Example B went into depth about different visual chart examples and gave short bullet points about benefits. The layout was also aesthetically pleasing and aided in finding information, ",
-          "value": "0.9"
+          "value": "B"
         }
       ]
     ],
@@ -791,54 +791,54 @@
         {
           "id": 1,
           "text": "Option B provides a user-friendly intuitive interface for the user to document SWOT analysis for small businesses which is in line with the user's query. Option on the other hand does not create an interface for the user to use to document SWOT analysis for small businesses therefore is not aligned or very helpful for the user given their query.",
-          "value": "1.0"
+          "value": "B"
         },
         {
           "id": 2,
           "text": "Example B's UI looks more modern with a lot more information organized in an easy-to-digest format.",
-          "value": "1.0"
+          "value": "B"
         },
         {
           "id": 3,
           "text": "Option B has too much color which makes the user interface hard to use",
-          "value": "0.8"
+          "value": "B"
         },
         {
           "id": 4,
           "text": "The losing page is actually more coherently structured; however, the \"Strategy Planner\" of the better Example A actually gave the user a tool to do what they wanted, a mixer to show how changing things up affected the overall business outlook.",
-          "value": "0.9"
+          "value": "A"
         },
         {
           "id": 5,
           "text": "I picked Example A compared to Example B because it’s honestly perfect for the prompt provided and even included graphs and relevant information including the prices and schedule a consultation. Example A is perfect and Example B does not provide the info right away it asks for more info so example A would be my pick and choice it’s way better.",
-          "value": "0.7"
+          "value": "A"
         }
       ],
       [
         {
           "id": 6,
           "text": "The color, the design, everything about option two was better. I especially liked the colored sections.",
-          "value": "0.9"
+          "value": "B"
         },
         {
           "id": 7,
           "text": "Example A has more detailed breakdowns on different pricing strategies with helpful visual aspects and layered informational approaches. ",
-          "value": "0.8"
+          "value": "A"
         },
         {
           "id": 8,
           "text": "Example A looked like it wanted to be a webpage but it's really just a how to guide. The content boxes with buttons look odd. Example B was straightforward and had better content. It had call outs with interesting info. The charts and graphs in Example B are a nice change from all text. ",
-          "value": "0.7"
+          "value": "B"
         },
         {
           "id": 9,
           "text": "Option B has better aesthetic to me, could be because it is laid out traditionally, but Option A is more effective and more likely to lead to better results for the prompter, the layout gives a vibe of strictly problem-solving.",
-          "value": "0.9"
+          "value": "B"
         },
         {
           "id": 10,
           "text": "Option A was more complete and comprehensive. Visually and performance wise, it was the better choice.",
-          "value": "0.9"
+          "value": "A"
         }
       ]
     ],
@@ -889,54 +889,54 @@
         {
           "id": 1,
           "text": "Option A clearly presented an integrated interface combining GIS, health outcomes, interviews, and workshop data — exactly what the user query described.",
-          "value": "1.0"
+          "value": "A"
         },
         {
           "id": 2,
           "text": "Option B provides a great interface to help the user accomplish all of their citation needs while being very user-friendly and intuitive to use. Option A on the other hand offers help, but it does not create an interface to help the user",
-          "value": "0.7"
+          "value": "B"
         },
         {
           "id": 3,
           "text": "I prefer Option A because it directly addresses the complex needs of the user query—particularly around power dynamics, positionality, and ethical engagement with indigenous communities. It offers a thoughtful, well-structured response that supports a decolonial and participatory research approach. Although Option B has a more appealing visual style, it lacks the depth and precision required for such a nuanced research topic. Option A is better suited for researchers navigating sensitive cultural contexts.",
-          "value": "0.8"
+          "value": "A"
         },
         {
           "id": 4,
           "text": "I prefer Option A because it aligns more closely with the needs of a researcher conducting a complex longitudinal study. It facilitates data integration, subgroup analysis, and visualization in a way that is both accessible and effective. While Option B has a more appealing design, it lacks the functionality and specificity required for high-stakes academic and institutional reporting. Option A provides a clearer path from raw data to meaningful insights.",
-          "value": "0.7"
+          "value": "A"
         },
         {
           "id": 5,
           "text": "The user wanted to statistically analyze his data and get visuals from those analyses and Example A has those constraints baked in and ready to go with both statistics-focused operations and graphics for those results.",
-          "value": "0.7"
+          "value": "A"
         }
       ],
       [
         {
           "id": 6,
           "text": "Much easier to follow and the layout is clean on the eyes",
-          "value": "0.9"
+          "value": "B"
         },
         {
           "id": 7,
           "text": "I think that example A is less cluttered and more easy to interact with. ",
-          "value": "0.7"
+          "value": "A"
         },
         {
           "id": 8,
           "text": "I think the layout of option B is more clean and easier to use",
-          "value": "0.8"
+          "value": "B"
         },
         {
           "id": 9,
           "text": "I appreciate example B having a map. I am a visual person so the map helped me navigate the page. ",
-          "value": "0.7"
+          "value": "B"
         },
         {
           "id": 10,
           "text": "The winner has to be B because B will actually help with a research framework.  While A is easy to navigate and more aesthetically pleasing, it is more of a demonstration of what the end result of the research could be.  However, the request is for the methodological framework that would this.  I believe B will help with establishing research protocols and methodology.  ",
-          "value": "0.9"
+          "value": "B"
         }
       ]
     ],

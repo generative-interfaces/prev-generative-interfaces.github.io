@@ -200,7 +200,7 @@ export function DemoPage() {
             <div className="flex justify-between items-start mb-5">
                 <div className="flex-1">
                     <h1 className="text-2xl md:text-3xl font-bold text-center">
-                        Beyond Chat: GENERATIVE INTERFACES FOR LANGUAGE MODELS
+                        GENERATIVE INTERFACES FOR LANGUAGE MODELS
                     </h1>
                 </div>
                 <div className="ml-4">
@@ -441,7 +441,7 @@ export function DemoPage() {
                     <div className="bg-card rounded-lg p-5 mb-4 max-w-4xl mx-auto">
                         <div className="w-full rounded-lg overflow-hidden">
                             <img
-                                src="/images/scenarios_human_study2.jpg"
+                                src="/images/scenarios_human_study2.png"
                                 alt="Scenario-wise human preference across 10 task scenarios"
                                 className="w-full h-auto object-contain"
                                 style={{ maxHeight: '500px' }}
