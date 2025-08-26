@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [tailwindcss(), reactRouter(), tsconfigPaths()],
   base: "/preview-genertiveui.github.io/",
   build: {
-    outDir: "dist",
+    outDir: "docs",
     assetsDir: "assets",
   }
 });
