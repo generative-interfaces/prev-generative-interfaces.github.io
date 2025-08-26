@@ -1,0 +1,48 @@
+{
+  "_index-BjURQRH7.js": {
+    "file": "assets/index-BjURQRH7.js",
+    "name": "index",
+    "imports": [
+      "_index-CvWC_OYl.js"
+    ]
+  },
+  "_index-CvWC_OYl.js": {
+    "file": "assets/index-CvWC_OYl.js",
+    "name": "index"
+  },
+  "app/root.tsx?__react-router-build-client-route": {
+    "file": "assets/root-DNaAcFNS.js",
+    "name": "root",
+    "src": "app/root.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_index-CvWC_OYl.js",
+      "_index-BjURQRH7.js"
+    ],
+    "css": [
+      "assets/root-DCCKyGpU.css"
+    ]
+  },
+  "app/routes/home.tsx?__react-router-build-client-route": {
+    "file": "assets/home-CipXaQWn.js",
+    "name": "home",
+    "src": "app/routes/home.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_index-CvWC_OYl.js",
+      "_index-BjURQRH7.js"
+    ],
+    "css": [
+      "assets/home-DeJStbMe.css"
+    ]
+  },
+  "node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx": {
+    "file": "assets/entry.client-iCJvqdPk.js",
+    "name": "entry.client",
+    "src": "node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx",
+    "isEntry": true,
+    "imports": [
+      "_index-CvWC_OYl.js"
+    ]
+  }
+}
