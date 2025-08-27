@@ -170,7 +170,7 @@ export function LeftPane({ selectedHour, onTimeChange, activity, gif }: LeftPane
             {gif && (
                 <div style={{ width: '100%' }}>
                     <img
-                        src={`/images/gifs/${gif}`}
+                        src={`${import.meta.env.BASE_URL}images/gifs/${gif}`}
                         alt={activity}
                         style={{
                             width: '100%',

@@ -66,10 +66,10 @@ interface DynamicData {
 
 // Demo screenshots from evaluation study
 const screenshots = [
-    { src: '/images/demo/3_image.png', caption: 'Quantum Physics Explorer learning platform with structured course navigation, progress tracking, conceptual overviews, and interactive cards for core quantum mechanics principles like wave-particle duality and entanglement.' },
-    { src: '/images/demo/1_image.png', caption: 'EcoExplorer food web educational interface showing interactive ecosystem learning with drag-and-drop organism connections, step-by-step tutorials, and embedded quizzes for hands-on ecological understanding.' },
-    { src: '/images/demo/2_image.png', caption: 'Technical comparison interface for REST vs GraphQL featuring tabbed navigation, side-by-side code examples, and interactive deep-dive sections for API versioning strategies and implementation approaches.' },
-    { src: '/images/demo/4_image.png', caption: 'Event Poster Designer creative tool interface with comprehensive design toolkit, template library, real-time preview canvas, and detailed property controls for creating professional marketing materials.' },
+    { src: `${import.meta.env.BASE_URL}images/demo/3_image.png`, caption: 'Quantum Physics Explorer learning platform with structured course navigation, progress tracking, conceptual overviews, and interactive cards for core quantum mechanics principles like wave-particle duality and entanglement.' },
+    { src: `${import.meta.env.BASE_URL}images/demo/1_image.png`, caption: 'EcoExplorer food web educational interface showing interactive ecosystem learning with drag-and-drop organism connections, step-by-step tutorials, and embedded quizzes for hands-on ecological understanding.' },
+    { src: `${import.meta.env.BASE_URL}images/demo/2_image.png`, caption: 'Technical comparison interface for REST vs GraphQL featuring tabbed navigation, side-by-side code examples, and interactive deep-dive sections for API versioning strategies and implementation approaches.' },
+    { src: `${import.meta.env.BASE_URL}images/demo/4_image.png`, caption: 'Event Poster Designer creative tool interface with comprehensive design toolkit, template library, real-time preview canvas, and detailed property controls for creating professional marketing materials.' },
 ];
 
 // Create suggestions based on dynamicData examples
@@ -260,7 +260,7 @@ export function DemoPage() {
             </div>
             <div className="w-full rounded-lg mb-8">
                 <img
-                    src="/images/head.png"
+                    src={`${import.meta.env.BASE_URL}images/head.png`}
                     alt="Generative Interfaces for Language Models"
                     className="w-full h-auto object-contain"
                     style={{ maxHeight: '400px' }}
@@ -396,7 +396,7 @@ export function DemoPage() {
                     <div className="bg-card rounded-lg p-5">
                         <div className="w-full rounded-lg overflow-hidden">
                             <img
-                                src="/images/Generative_User_Interface_Method.jpg"
+                                src={`${import.meta.env.BASE_URL}images/Generative_User_Interface_Method.jpg`}
                                 alt="Technical Pipeline Architecture: (a) User Query processed through (b) Interface-specific Language with Finite State Machines to (c) Generated Code and UIs"
                                 className="w-full h-auto object-contain"
                                 style={{ maxHeight: '400px' }}
@@ -426,7 +426,7 @@ export function DemoPage() {
                     <div className="bg-card rounded-lg p-5 mb-4 max-w-4xl mx-auto">
                         <div className="w-full rounded-lg overflow-hidden">
                             <img
-                                src="/images/scenarios_human_study.jpg"
+                                src={`${import.meta.env.BASE_URL}images/scenarios_human_study.jpg`}
                                 alt="Scenario-wise Human Evaluation of Conversational vs. Generative UIs showing performance across 10 task scenarios"
                                 className="w-full h-auto object-contain"
                                 style={{ maxHeight: '500px' }}
@@ -441,7 +441,7 @@ export function DemoPage() {
                     <div className="bg-card rounded-lg p-5 mb-4 max-w-4xl mx-auto">
                         <div className="w-full rounded-lg overflow-hidden">
                             <img
-                                src="/images/scenarios_human_study2.png"
+                                src={`${import.meta.env.BASE_URL}images/scenarios_human_study2.png`}
                                 alt="Scenario-wise human preference across 10 task scenarios"
                                 className="w-full h-auto object-contain"
                                 style={{ maxHeight: '500px' }}

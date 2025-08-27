@@ -48,7 +48,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire build directory to root
-          path: './build'
+          path: './dist'
 
   # Deploy job
   deploy:
